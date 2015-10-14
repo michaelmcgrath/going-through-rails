@@ -33,9 +33,18 @@ body {
   background-color: #f5f5f5;
 }
 
-.this-page {
+.footer nav {
+  padding-top: 20px;
+}
+
+.navbar-fixed-top .this-page {
   background-color: rgb(231, 231, 231);
   color: rgb(85, 85, 85);
   display: block;
   padding: 15px;
+}
+
+.copyright {
+  color: rgb(119, 119, 119);
+  padding-top: 20px;
 }
